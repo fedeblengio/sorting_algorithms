@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "sort.h"
 
 /**
  * selection_sort - Its a function that sorts an array of integers

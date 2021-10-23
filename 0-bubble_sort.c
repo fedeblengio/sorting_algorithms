@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "sort.h"
 
 /**
  * bubble_sort - sorts an array of integers in ascending order
