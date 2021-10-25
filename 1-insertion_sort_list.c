@@ -1,7 +1,8 @@
 #include "sort.h"
 
 /**
- * insertion_sort_list - function that builds the final sorted array one item at a time
+ * insertion_sort_list - function that builds the final
+ * sorted array one item at a time
  * @list: pointer to the doubly linked list
  */
 void insertion_sort_list(listint_t **list)
