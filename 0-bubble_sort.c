@@ -7,8 +7,13 @@
  */
 void bubble_sort(int *array, size_t size)
 {
-        int aux;
+	int aux;
 	size_t f, j;
+
+	if (size < 2)
+	{
+		return;
+	}
 
 	for (f = 0; f < size; f++)
 	{
